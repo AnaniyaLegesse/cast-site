@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    padding: 1rem;
+}
+
+.container{
+    height: 50vh;
+    padding-top: 2rem;
+}
+.col{
+    margin-right: 1rem;
+}
+
+
+.card{
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+
